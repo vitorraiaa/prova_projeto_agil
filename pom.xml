@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.insper</groupId>
-	<artifactId>produto</artifactId>
+	<artifactId>prova</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>prova</name>
 	<description>Demo project for Spring Boot</description>
