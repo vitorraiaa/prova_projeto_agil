@@ -58,5 +58,4 @@ jobs:
           docker stop prova
           docker rm --force prova
           docker run -d -p 8080:8080 \
-          -e URI_DB=${{ secrets.URI_DB }} \
           --name prova vitorraia10/prova-ci:${{ github.sha }}
